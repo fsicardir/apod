@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 import './PageLogo.css';
 
 const PageLogo = () =>
-  <span className={"page-logo"} data-testid="page-logo" >
+  <span className='page-logo' data-testid='page-logo' >
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
       <path fill="#99AAB5" d="M8.514 19.828L19.122 9.223l2.121 2.121L10.635 21.95z"/>
       <path fill="#55ACEE" d="M8.515 29.728c-.781.781-2.047.781-2.828 0l-4.95-4.949c-.781-.781-.781-2.048 0-2.828L5.687 17c.781-.781 2.047-.781 2.828 0l4.95 4.95c.781.78.781 2.047 0 2.828l-4.95 4.95zm16.262-16.263c-.78.781-2.047.781-2.827 0L17 8.515c-.781-.781-.781-2.047 0-2.828l4.951-4.95c.781-.781 2.047-.781 2.828 0l4.949 4.95c.781.781.781 2.047.001 2.828l-4.952 4.95z"/>

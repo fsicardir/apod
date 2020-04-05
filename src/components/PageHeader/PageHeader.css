@@ -1,0 +1,15 @@
+
+.-display-flex {
+    display: flex;
+}
+
+.-center-flex {
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.-padding-10px-vertical {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

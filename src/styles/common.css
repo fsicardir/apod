@@ -1,0 +1,31 @@
+.-width-90-percent {
+    width: 90%;
+    max-width: 1024px;
+}
+
+.-hm-auto {
+    margin-right: auto;
+    margin-left: auto;
+}
+.-coral-color {
+    color: var(--coral);
+}
+
+.-light-steel-blue-bc {
+    background-color: var(--light-steel-blue);
+}
+
+.-light-slate-grey-bb {
+    border-bottom-color: var(--light-slate-grey);
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+
+}
+
+:root {
+    --coral: #FCAC34;
+    --light-sky-blue: #8BCBFB;
+    --light-steel-blue: #CCD4DC;
+    --light-slate-grey: #9CACB4;
+    --cornflower-blue: #54ACEC;
+}

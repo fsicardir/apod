@@ -1,0 +1,34 @@
+.page-logo {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    margin: 0 10px;
+    z-index: 1;
+    position: relative;
+}
+
+.page-logo::before {
+    content: "";
+    position: absolute;
+    left: -10%;
+    top: -10%;
+    height: 120%;
+    width: 120%;
+    border-radius: 50%;
+    background-color: white;
+    z-index: -1;
+}
+
+@media (min-width: 768px) {
+    .page-logo {
+        height: 60px;
+        width: 60px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .page-logo {
+        height: 70px;
+        width: 70px;
+    }
+}
