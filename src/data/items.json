@@ -1,0 +1,30 @@
+[
+  {
+    "copyright": "Massimo Tamajo",
+    "date": "2020-03-27",
+    "explanation": "A drop of water seems to hold an entire galaxy in this creative macro-astrophotograph. In the imaginative work of cosmic nature photography a close-up lens was used to image a previously made picture of a galaxy, viewed through a water drop suspended from a stem. A favorite of many telescope-wielding astroimagers, the galaxy is the Andromeda Galaxy, also known as M31. About 100,000 light-years across that majestic galaxy's spiral arms and dust lanes are curved and distorted in the image contained in the centimeter-sized droplet. Andromeda is some 2.5 million light-years distant, but this project was still carried out while spending time indoors.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2003/Galassiainunagoccia.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Little Drop of Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2003/Galassiainunagoccia1024.jpg"
+  },
+  {
+    "date": "2019-01-01",
+    "explanation": "This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy, one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in optical light actually glows brightly in infrared light.  The featured image, digitally sharpened, shows the infrared glow, recently recorded by the orbiting Spitzer Space Telescope, superposed in false-color on an existing image taken by NASA's Hubble Space Telescope in optical light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years across and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.   News: New Horizons Spacecraft Passes Ultima Thule",
+    "hdurl": "https://apod.nasa.gov/apod/image/1901/sombrero_spitzer_3000.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sombrero Galaxy in Infrared",
+    "url": "https://apod.nasa.gov/apod/image/1901/sombrero_spitzer_1080.jpg"
+  },
+  {
+    "date": "2020-03-30",
+    "explanation": "What creates Saturn's colors?  The featured picture of Saturn only slightly exaggerates what a human would see if hovering close to the giant ringed world.   The image was taken in 2005 by the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Here Saturn's majestic rings appear directly only as a curved line, appearing brown, in part, from its infrared glow.  The rings best show their complex structure in the dark shadows they create across the upper part of the planet.   The northern hemisphere of Saturn can appear partly blue for the same reason that Earth's skies can appear blue -- molecules in the cloudless portions of both planet's atmospheres are better at scattering blue light than red.  When looking deep into Saturn's clouds, however, the natural gold hue of Saturn's clouds becomes dominant.   It is not known why southern Saturn does not show the same blue hue -- one hypothesis holds that clouds are higher there.   It is also not known why some of Saturn's clouds are colored gold.   Activities: NASA Science at Home",
+    "hdurl": "https://apod.nasa.gov/apod/image/2003/SaturnColors_CassiniSchmidt_1000.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Colors of Saturn from Cassini",
+    "url": "https://apod.nasa.gov/apod/image/2003/SaturnColors_CassiniSchmidt_960.jpg"
+  }
+]
