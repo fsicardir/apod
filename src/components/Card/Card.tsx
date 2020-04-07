@@ -1,4 +1,5 @@
 import React from 'react';
+import { format } from 'date-fns'
 import './Card.css';
 
 type CardProps = {
@@ -13,7 +14,7 @@ type CardProps = {
 const Card = (cardProps: CardProps) =>
   <section className='-cornflower-blue-bc -padding-10px -margin-v-10px -border-radius-15px -grid-container'>
     <h1 className='title -bold -coral-c -font-size-lg -text-align-center -margin-2'>{cardProps.title}</h1>
-    <time className='date -bold -text-align-right -margin-2'>{cardProps.date.toDateString()}</time>
+    <time className='date -bold -text-align-right -margin-2'>{format(cardProps.date, 'MM/dd/yyyy')}</time>
     <figure className='figure -margin-2'>
       <a href={cardProps.hdImgUrl}>
         <img className='-max-width-100' src={cardProps.imgUrl} alt='See description attached.'/>
