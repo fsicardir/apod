@@ -5,7 +5,7 @@ const PageTitle = () =>
   <span className='page-title -coral-c'>
     <span className='page-title-text -hide-md-up'>APOD</span>
     <span className='page-title-text -hide-sm'>
-      Astronomic Picture Of the Day
+      Astronomy Picture Of the Day
     </span>
   </span>;
 
