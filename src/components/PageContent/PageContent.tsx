@@ -70,7 +70,6 @@ const PageContent = () => {
   return (
     <main className="-width-90-percent -hm-auto">
       { getContent(status) }
-      <Loader/>
     </main>
   );
 };

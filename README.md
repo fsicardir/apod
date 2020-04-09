@@ -11,6 +11,7 @@ Very basic view of the current image and description.
 ### Improvements and new features planned
 - Better design and UX.
 - Nicer logo and favicon.
+- Position loader correctly.
 - Search for images of another day.
 - Image gallery for recent photos.
 - Research for a better way to load images.
