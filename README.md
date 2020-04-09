@@ -7,6 +7,7 @@ It already counts with a very neat and simple [official front end](https://apod.
 
 ### Current state
 Very basic view of the current image and description.
+The website is hosted by GitHub and you can see it [here](https://apod.cf).
 
 ### Improvements and new features planned
 - Better design and UX.
