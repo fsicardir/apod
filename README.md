@@ -12,7 +12,7 @@ The website is hosted by GitHub and you can see it [here](https://apod.cf).
 ### Improvements and new features planned
 - Better design and UX.
 - Nicer logo and favicon.
-- Position loader correctly.
+- ~~Position loader correctly.~~ Done!
 - Search for images of another day.
 - Image gallery for recent photos.
 - Research for a better way to load images.
