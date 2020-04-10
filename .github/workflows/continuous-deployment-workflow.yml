@@ -1,0 +1,26 @@
+name: continuous-deployment-workflow
+on:
+  push:
+    branches:
+      - master
+runs-on: ubuntu-latest
+jobs:
+  deploy:
+    name: deploy
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Node 10
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10
+      - name: Install packages
+        run: npm install
+      - name: Build app
+        run: npm run build
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./build
