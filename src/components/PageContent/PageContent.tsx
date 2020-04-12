@@ -46,8 +46,7 @@ const PageContent = () => {
           statusKind: StatusKind.Ready,
           data: apodRs,
         });
-      })
-      .catch((error) => {
+      }, (error) => {
         console.error(error);
         setStatus({
           statusKind: StatusKind.Error,
